@@ -17,7 +17,7 @@
   - Git / GitHub
 
 
-## 功能特色（Features）
+## 功能特色
 
 - 依序顯示題目
 
@@ -41,7 +41,7 @@
 <img width="2774" height="1474" alt="Image" src="https://github.com/user-attachments/assets/5715b764-5972-4241-aadc-098023dcc668" />
 <img width="2734" height="1467" alt="Image" src="https://github.com/user-attachments/assets/e05cc9d5-41ee-4d43-93cc-c3f337579337" />
 
-## 安裝與執行（Installation）
+## 安裝與執行
 
 ```bash
 git clone https://github.com/dittooooo/quiz-app.git
